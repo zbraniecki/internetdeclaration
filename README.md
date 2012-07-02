@@ -12,9 +12,6 @@ Let’s discuss these principles — agree or disagree with them, debate them, t
 
 Join us in keeping the Internet free and open.
 
-
-(note: this document is formatted in [markdown syntax](http://daringfireball.net/projects/markdown/syntax))
-
 ## DECLARATION
 
 We stand for a free and open Internet.
@@ -30,3 +27,6 @@ We support transparent and participatory processes for making Internet policy an
 **Innovation**: Protect the freedom to innovate and create without permission. Don’t block new technologies, and don’t punish innovators for their users' actions.
 
 **Privacy**: Protect privacy and defend everyone’s ability to control how their data and devices are used.
+
+
+(note: this document is formatted in [markdown syntax](http://daringfireball.net/projects/markdown/syntax))
