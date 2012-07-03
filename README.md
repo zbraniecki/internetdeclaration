@@ -1,32 +1,43 @@
-# DECLARATION OF INTERNET FREEDOM
+# DEKLARACJA WOLNOŚCI INTERNETU
 
 [http://internetdeclaration.org](http://internetdeclaration.org)
 
-## PREAMBLE
+## PREAMBUŁA
 
-We believe that a free and open Internet can bring about a better world. To keep the Internet free and open, we call on communities, industries and countries to recognize these principles. We believe that they will help to bring about more creativity, more innovation and more open societies.
+Wierzymy, że wolny i otwarty Internet może sprawić, że świat będzie lepszy. Aby 
+Internet pozostał wolny i otwarty, wzywamy społeczności, organizacje i państwa 
+by przyjęły te fundamentalne wartości. Wierzymy, że umożliwią one stworzenie 
+bardziej twórczych, innowacyjnych i otwartych społeczeństw.
 
-We are joining an international movement to defend our freedoms because we believe that they are worth fighting for.
+Dołączamy do międzynarodowego ruchu, którego celem jest obrona naszych 
+wolności, ponieważ wierzymy, że są one tego warte.
 
-Let’s discuss these principles — agree or disagree with them, debate them, translate them, make them your own and broaden the discussion with your community — as only the Internet can make possible.
+Dyskutujmy o tych pryncypiach - zgadzajmy się z nimi lub nie, rozmawiajmy 
+o nich, tłumaczmy je, przyjmujmy za swoje i dyskutujmy o nich w ramach swoich 
+społeczności - tak jak tylko Internet na to pozwala.
 
-Join us in keeping the Internet free and open.
+Dołącz do nas, by zachować Internet wolnym i otwartym.
 
-## DECLARATION
+## DEKLARACJA
 
-We stand for a free and open Internet.
+Stajemy w obronie wolnego i otwartego Internetu.
 
-We support transparent and participatory processes for making Internet policy and the establishment of five basic principles:
+Wspieramy transparentne i otwarte na współtworzenie procesy kształtowania reguł 
+dla Internetu oraz ustanowienie pięciu podstawowych zasad:
 
-**Expression**: Don't censor the Internet.
+**Wyrażanie siebie**: Nie cenzurujmy Internetu.
 
-**Access**: Promote universal access to fast and affordable networks.
+**Dostęp**: Promujmy równy dostęp do szybkich i tanich sieci.
 
-**Openness**: Keep the Internet an open network where everyone is free to connect, communicate, write, read, watch, speak, listen, learn, create and innovate.
+**Otwartość**: Zachowajmy Internet jako otwartą sieć w której każdy może 
+dołączyć, komunikować się, pisać, czytać, oglądać, mówić, słuchać, uczyć się, 
+tworzyć i zmieniać świat.
 
-**Innovation**: Protect the freedom to innovate and create without permission. Don’t block new technologies, and don’t punish innovators for their users' actions.
+**Innowacyjność**: Chrońmy prawo do innowacji i tworzenia bez zezwoleń. Nie 
+blokujmy nowych technologii i nie karzmy innowatorów za działania ich 
+użytkowników.
 
-**Privacy**: Protect privacy and defend everyone’s ability to control how their data and devices are used.
+**Prywatność**: Chrońmy prywatność i prawo każdego do kontrolowania jak ich 
+dane i urządzenia są wykorzystywane.
 
-
-(note: this document is formatted in [markdown syntax](http://daringfireball.net/projects/markdown/syntax))
+(ten dokument został sformatowany przy użyciu [markdown syntax](http://daringfireball.net/projects/markdown/syntax))
