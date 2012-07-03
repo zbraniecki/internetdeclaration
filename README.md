@@ -37,7 +37,7 @@ tworzyć i zmieniać świat.
 blokujmy nowych technologii i nie karzmy innowatorów za działania ich 
 użytkowników.
 
-**Prywatność**: Chrońmy prywatność i prawo każdego do kontrolowania jak ich 
+**Prywatność**: Chrońmy prywatność i prawo każdego do kontrolowania jak jego 
 dane i urządzenia są wykorzystywane.
 
 (ten dokument został sformatowany przy użyciu [markdown syntax](http://daringfireball.net/projects/markdown/syntax))
